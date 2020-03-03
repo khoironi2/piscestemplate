@@ -17,8 +17,13 @@ body{
 }
 .jumbo img{
     width: 60px;
-    margin-top: -300px;
+    margin-top: -200px;
 }
+
+.jumbo h2{
+        color: white;
+        margin-top: -80px;
+    }
 
 /**Small devices (landscape phones, 576px and up)**/
 
@@ -51,7 +56,11 @@ body{
     }
     .jumbo img{
         width: 100px;
-        margin-top: -400px;
+        margin-top: -500px;
+    }
+    .jumbo h2{
+        color: white;
+        margin-top: -200px;
     }
  }
 /**End Medium devices (tablets, 768px and up)**/
