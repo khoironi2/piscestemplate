@@ -39,7 +39,10 @@ section{
 
  /**End header**/
 
- .experience{
+
+ /**Start experience**/
+
+.experience{
     margin-top: 59px;
 }
 
@@ -59,8 +62,42 @@ section{
 }
 
 
+/**End experience**/
 
 
+ /**Start services**/
+.services{
+    margin-top: 237px;
+    text-align: center;
+    background-color: #F3F3F3;
+    padding-top: 150px;
+}
+.services img{
+    max-height: 30px;
+    margin-bottom: 15px;
+}
+
+.services h6{
+    color: #FCB002;
+}
+
+.services h2{
+    color: #20490B;
+}
+
+.line1{
+    margin-top: 93px;
+   
+}
+.colline1{
+    padding: 50px 0;
+    background-color: #FFFFFF;
+    max-height: 247px;
+    max-width: 247px;
+    margin-bottom: 30px;
+    
+}
+/**End services**/
 
 
 
@@ -116,6 +153,25 @@ section{
     }
 /**End header**/
 
+.experience{
+    margin-top: 69px;
+}
+
+.experience img{
+    max-height: 304px;
+}
+.experience h2{
+    color: #20490B;
+    font-size: 25px;
+}
+.experience span{
+    font-size: 13px;
+    font-weight: bold;
+}
+.experience p{
+    font-size: 13px;
+}
+
 
 
 
@@ -169,7 +225,24 @@ section{
     }
 
 /**End header**/
+.experience{
+    margin-top: 79px;
+}
 
+.experience img{
+    max-height: 304px;
+}
+.experience h2{
+    color: #20490B;
+    font-size: 30px;
+}
+.experience span{
+    font-size: 14px;
+    font-weight: bold;
+}
+.experience p{
+    font-size: 14px;
+}
 
  }
 
@@ -219,13 +292,23 @@ section{
         margin-top: 10px;
         font-size: 55px;
     }
-
     .experience{
         margin-top: 237px;
     }
-
+    
     .experience img{
-        max-height: 504px;
+        max-height: 404px;
+    }
+    .experience h2{
+        color: #20490B;
+        font-size: 30px;
+    }
+    .experience span{
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .experience p{
+        font-size: 14px;
     }
 
 
