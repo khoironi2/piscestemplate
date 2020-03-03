@@ -19,6 +19,26 @@ body{
     width: 60px;
     margin-top: -300px;
 }
+
+/**Small devices (landscape phones, 576px and up)**/
+
+@media (min-width: 576px) {
+    .navbar{
+        background-color: white;
+       
+    }
+
+    .jumbo{
+        text-align: center;
+    }
+    .jumbo img{
+        width: 100px;
+        margin-top: -500px;
+    }
+
+}
+
+
 /**Start Medium devices (tablets, 768px and up)**/
 @media (min-width: 768px) {
     .navbar{
