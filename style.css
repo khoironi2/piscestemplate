@@ -1,0 +1,244 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section{
+	min-height: 420px;
+}
+/**Start nav**/
+.navbar{
+    background-color: white;
+   
+}
+.navhover a{
+    margin-right: 3px;
+}
+.navhover a:hover{
+    border-bottom: 1px solid #FCB002;
+}
+
+/**End nav**/
+
+
+/**Start header**/
+.header{
+        background-image: url('img/samson-ZGjbiukp_-A-unsplash.jpg');
+        width: 100%;
+        height: 350px;
+        text-align: center;
+ }
+ .header img{
+     max-height: 100px;
+     margin-top: 150px;
+ }
+
+ .header h2{
+     color: white;
+     margin-top: 10px;
+ }
+
+
+ /**End header**/
+
+ .experience{
+    margin-top: 59px;
+}
+
+.experience img{
+    max-height: 204px;
+}
+.experience h2{
+    color: #20490B;
+    font-size: 20px;
+}
+.experience span{
+    font-size: 12px;
+    font-weight: bold;
+}
+.experience p{
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*===================================================================================*/
+/** Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) { 
+	/**Start nav**/
+.navbar{
+    background-color: white;
+   
+}
+.navhover a{
+    margin-right: 3px;
+}
+.navhover a:hover{
+    border-bottom: 1px solid #FCB002;
+}
+
+/**End nav**/
+
+
+
+/**Start header**/
+    .header{
+        background-image: url('img/samson-ZGjbiukp_-A-unsplash.jpg');
+        width: 100%;
+        height: 450px;
+        text-align: center;
+    }
+    .header img{
+        max-height: 100px;
+        margin-top: 200px;
+    }
+
+    .header h2{
+        color: white;
+        margin-top: 10px;
+    }
+/**End header**/
+
+
+
+
+}
+
+
+/*===================================================================================*/
+
+
+
+
+
+
+
+
+
+
+/*===================================================================================*/
+
+/** Medium devices (tablets, 768px and up)**/
+@media (min-width: 768px) { 
+	/**Start nav**/
+.navbar{
+    background-color: white;
+   
+}
+.navhover a{
+    margin-right: 3px;
+}
+.navhover a:hover{
+    border-bottom: 1px solid #FCB002;
+}
+
+/**End nav**/
+
+/**Start header**/
+.header{
+        background-image: url('img/samson-ZGjbiukp_-A-unsplash.jpg');
+        width: 100%;
+        height: 550px;
+        text-align: center;
+    }
+    .header img{
+        max-height: 100px;
+        margin-top: 250px;
+    }
+    .header h2{
+        color: white;
+        margin-top: 10px;
+        font-size: 45px;
+    }
+
+/**End header**/
+
+
+ }
+
+/*===================================================================================*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*===================================================================================*/
+/** Large devices (desktops, 992px and up)**/
+@media (min-width: 992px) { 
+	/**Start nav**/
+.navbar{
+    background-color: white;
+   
+}
+.navhover a{
+    margin-right: 3px;
+}
+.navhover a:hover{
+    border-bottom: 1px solid #FCB002;
+}
+
+/**End nav**/
+
+/**Start header**/
+.header{
+        background-image: url('img/samson-ZGjbiukp_-A-unsplash.jpg');
+        width: 100%;
+        height: 650px;
+        text-align: center;
+    }
+    .header img{
+        max-height: 100px;
+        margin-top: 300px;
+    }
+    .header h2{
+        color: white;
+        margin-top: 10px;
+        font-size: 55px;
+    }
+
+    .experience{
+        margin-top: 237px;
+    }
+
+    .experience img{
+        max-height: 504px;
+    }
+
+
+/**End header**/
+
+
+
+
+
+ }
+
+
+/*===================================================================================*/
+
+
+
