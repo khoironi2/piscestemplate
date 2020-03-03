@@ -71,6 +71,7 @@ section{
     text-align: center;
     background-color: #F3F3F3;
     padding-top: 150px;
+    padding-bottom: 182px;
 }
 .services img{
     max-height: 30px;
@@ -86,7 +87,8 @@ section{
 }
 
 .line1{
-    margin-top: 93px;
+    margin-top: 53px;
+   
    
 }
 .colline1{
