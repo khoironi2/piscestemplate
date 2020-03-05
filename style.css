@@ -163,9 +163,6 @@ section{
     font-size: 25px;
 }
 
-.rowLink{
-    text-align: center;
-}
 .portfolio img{
     max-height: 247px;
     max-width: 247px;
@@ -173,7 +170,6 @@ section{
 }
 
 .rowPortfolio{
-    margin-top: 53px;
     margin-bottom: 237;
 }
 
